@@ -1,5 +1,5 @@
 #!/bin/sh -e
-cd /home/agv/tools/remote
+cd ~/tools/remote
 rm -rf sc
 mkdir sc
 cd sc
