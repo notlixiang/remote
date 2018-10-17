@@ -6,6 +6,6 @@ git commit -m "update"
 
 git push
 
-sleep(5)
+sleep 5s
 echo "lixiang3.1416@qq.com"
 echo "nmima1234\\" 
