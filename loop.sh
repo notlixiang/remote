@@ -4,8 +4,8 @@
 git add .
 git commit -m "update"
 
-git push
+echo "lixiang3.1416@qq.com"|git push
 
 sleep 5s
-echo "lixiang3.1416@qq.com"
+
 echo "nmima1234\\" 
